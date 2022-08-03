@@ -1,0 +1,23 @@
+.card1 {
+    position: absolute;
+    width: 8%;
+    margin-top: 23%;
+    margin-left: -10%;
+    border-radius: 7%;
+}
+
+.card2 {
+    position: absolute;
+    width: 8.25%;
+    margin-top: 23%;
+    margin-left: -1%;
+    border-radius: 7%;
+}
+
+.card3 {
+    position: absolute;
+    width: 6.65%;
+    margin-top: 23%;
+    margin-left: 8%;
+    border-radius: 7%;
+}

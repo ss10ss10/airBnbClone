@@ -14,14 +14,23 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: wheat;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  background-color: antiquewhite;
+  box-sizing: border-box;
+  border-radius: 7px;
+  height: 87vh;
+  width: 25vw;
 }
 
 .App-link {
