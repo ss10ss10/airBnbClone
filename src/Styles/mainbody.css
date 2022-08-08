@@ -1,17 +1,35 @@
-.card1 {
-    position: absolute;
-    width: 8%;
-    margin-top: 23%;
-    margin-left: -10%;
-    border-radius: 7%;
+.card {
+    width: 80%;
+    font-size: 13px;
 }
 
-.card2 {
-    position: absolute;
-    width: 8.25%;
-    margin-top: 23%;
-    margin-left: -1%;
+.card1-image {
+    width: 40%;
     border-radius: 7%;
+    margin-top: 120%;
+    margin-left: -40%
+}
+
+.card1-stats {
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+}
+
+.gray {
+    color: gray;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.card2-image {
+    position: absolute;
+    width: 8.2%;
+    border-radius: 7%;
+    margin-top: -17.75%;
+    margin-left: 1%;
 }
 
 .card3 {
