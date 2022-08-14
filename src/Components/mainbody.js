@@ -6,7 +6,7 @@ import '../Styles/mainbody.css';
 const Mainbody = (props) => {
     return (
         <div className='card'>
-            <img src={hamilton} className="card1-image"></img>
+            <img src={require(`../Styles/Images/${props.img}`)} className="card1-image"></img>
             <div className="card1-stats">
                 <span>{props.rating}</span>
                 <span className="gray">({props.reviewCount}) • {props.country}</span>

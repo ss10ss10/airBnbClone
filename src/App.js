@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <div className="main">
           <Navbar />
-          <MainBody 
+          <MainBody
+		  	img={"hamilton.jpg"}
 			rating = "5.0"
 			reviewCount = {6}
 			country = "USA"
