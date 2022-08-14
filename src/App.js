@@ -9,7 +9,6 @@ function App() {
         <div className="main">
           <Navbar />
           <MainBody 
-			image = "hamilton.jpg"
 			rating = "5.0"
 			reviewCount = {6}
 			country = "USA"
