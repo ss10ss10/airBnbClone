@@ -8,7 +8,14 @@ function App() {
       <header className="App-header">
         <div className="main">
           <Navbar />
-          <MainBody />
+          <MainBody 
+			image = "hamilton.jpg"
+			rating = "5.0"
+			reviewCount = {6}
+			country = "USA"
+			title = "Life lessons by Lewis Hamilton"
+			price = {136}
+          />
         </div>
       </header>
     </div>
