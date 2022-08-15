@@ -1,4 +1,4 @@
-import hamilton from '../Styles/Images/hamilton.jpg';
+// import hamilton from '../Styles/Images/hamilton.jpg';
 import alex from '../Styles/Images/alex.png';
 
 import '../Styles/mainbody.css';
